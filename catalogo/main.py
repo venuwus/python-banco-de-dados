@@ -1,4 +1,4 @@
-def main ()
+def main ():
     print("Olá Mundo!")
 
     if __name__ == "__main__":
